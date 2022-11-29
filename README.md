@@ -2,7 +2,7 @@
 - 👀 I’m interested in fintech and crypto
 - 🌱 I’m currently learning webhooks
 - 💞️ I’m looking to collaborate on decentralized ideas. 
-- 📫 How to reach me - Twitter: @SolSaphira
+- 📫 How to reach me - Discord: Friday13 | Saphira#1369 
 
 <!---
 SaphiraSol/SaphiraSol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaphiraSol
 - 👀 I’m interested in fintech and crypto
-- 🌱 I’m currently learning webhooks
+- 🌱 I’m currently learning your favorite thing
 - 💞️ I’m looking to collaborate on decentralized ideas. 
 - 📫 How to reach me - Discord: Friday13 | Saphira#1369 
 
